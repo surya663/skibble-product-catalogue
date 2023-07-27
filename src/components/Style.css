@@ -1,0 +1,42 @@
+body {
+  background-color: #232529;
+}
+.col {
+  margin-top: 80px;
+}
+.navbar {
+  padding: 10px;
+}
+.card-img-top {
+  max-height: 200px;
+}
+.card-body {
+  background-color: #c4c7cf;
+}
+.card {
+  height: 400px;
+}
+.cart-icon {
+  margin: 10px;
+}
+.row {
+  width: 100%;
+  margin: 0 auto;
+}
+.login {
+  margin-left: auto;
+  position: relative;
+  top: 4px;
+  border-radius: 6px;
+}
+.cart {
+  border-radius: 6px;
+}
+.cartnav {
+  margin-top: 7px;
+  margin-left: 12px;
+  border-radius: 6px;
+}
+.cart-icon {
+  border-radius: 6px;
+}
